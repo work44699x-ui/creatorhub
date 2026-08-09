@@ -347,3 +347,4 @@ function Field({ label, children }) {
 }
 
 const inputStyle = { width: "100%", boxSizing: "border-box", padding: "11px 13px", fontFamily: sans, fontSize: 14, border: `1px solid ${C.border}`, borderRadius: 12, background: C.surfaceAlt, color: C.text, outline: "none" 
+};
